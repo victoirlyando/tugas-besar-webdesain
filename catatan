@@ -1,0 +1,43 @@
+catatan:
+jika anda ingin menanbah komentar pada dokuman html,maka tulisan tag <!..........>
+misal :
+<! perubahan terakhir 27/6/96>
+
+table propertis:
+border : akan memberikan garis pembatas pada tabel
+cellspacing = aka menset jarak dala piksel antara batas dalam dan batas luar
+cellpandding = aka menset jarak dalam piksel antara batas dalam dan teks nya 
+align = penjajaran rata kanan ,kiri,tengah 
+bgcolor= aka memberikan efek warna pada table 
+rowspan = unatul menset jumlah barik kebawah
+colspan = untuk menset jumlah kolom ke kanan 
+width = untuk batas lebar/ panjang table
+height  untuk menset batas tinggi table
+
+images propertis:
+hspace: memberikan spasi dikanan dan di kiri gambar
+vspace : meberikan spasi di atas dan di bawah gambar
+border : akan memberikan garis pembatas pada tabel
+width = untuk batas lebar/ panjang table
+height  untuk menset batas tinggi table
+
+link
+
+tag link pada html :
+<a href = url/filename>..........<a>
+HREF = hypertext reference
+
+marquee(teks berjalan)
+tag marquee :
+<marquee behavior=..>.....</marquee>
+
+style marquee:"behavior"=...
+1. ALTERNATE : "memantul"
+2. SCROLL : "bergerak ke bagian sisi yang lain"
+3. SLIDE : "bergerak tersandat atau diam"
+
+direction :
+1. DOWN
+2. LEFT
+3. RIGHT
+4. UP
